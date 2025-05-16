@@ -1,0 +1,2 @@
+Prefix plugins/LinComb/example/
+Plugin LinComb inputfile ltfr.csv outputfile nonlin.csv
